@@ -1,0 +1,1 @@
+# Fashion Cloud Cache API
